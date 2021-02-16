@@ -101,5 +101,10 @@ flycheck_*.el
 # network security
 /network-security.data
 
+.emacs.d/*.dat
+.emacs.d/url*
+.emacs.d/edts*
 
 # End of https://www.toptal.com/developers/gitignore/api/emacs
+
+.stumpwm.d/*.log*

@@ -14,6 +14,10 @@
 (load "~/.emacs.d/gas-mode/gas-mode")
 (load "~/.emacs.d/lisp")
 (load "~/.emacs.d/lfe")
+(load "~/.emacs.d/graphql")
+(load "~/.emacs.d/node-js-comint")
+(load "~/.emacs.d/elm")
+(load "~/.emacs.d/git-branch.eshell")
 ;; (custom-set-variables
 ;;  ;; custom-set-variables was added by Custom.
 ;;  ;; If you edit it by hand, you could mess it up, so be careful.

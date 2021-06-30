@@ -17,7 +17,8 @@
 (load "~/.emacs.d/graphql")
 (load "~/.emacs.d/node-js-comint")
 (load "~/.emacs.d/elm")
-(load "~/.emacs.d/git-branch.eshell")
+(load "~/.emacs.d/eshell-customization")
+(load "~/.emacs.d/haskell.el")
 ;; (custom-set-variables
 ;;  ;; custom-set-variables was added by Custom.
 ;;  ;; If you edit it by hand, you could mess it up, so be careful.
